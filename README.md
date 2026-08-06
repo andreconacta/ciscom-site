@@ -6,6 +6,7 @@ por meio do recurso de static assets.
 ## Estrutura
 
 - `public/` contém todas as páginas do site e o logo
+- `public/solucoes/` contém as páginas de solução e de tema
 - `wrangler.jsonc` diz ao Cloudflare onde estão os arquivos
 
 ## Como publicar uma alteração
